@@ -8,7 +8,7 @@
       "help": "Minutes"
     },
     "entryCooldownInSeconds": {
-      "title": "Time to entry heist",
+      "title": "Time to enter heist",
       "help": "Seconds"
     },
     "started": "Heist start message",
