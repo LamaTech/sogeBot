@@ -13,7 +13,7 @@
     "error": {
       "no-parameters": "$sender, $command is missing -id or -tag.",
       "not-found-by-id": "$sender, quote $id was not found.",
-      "not-found-by-tag": "$sender, no quotes with tag $tag was not found."
+      "not-found-by-tag": "$sender, no quotes with tag $tag ware found."
     }
   },
   "set": {
